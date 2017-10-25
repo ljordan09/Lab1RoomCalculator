@@ -1,7 +1,0 @@
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\bin\Debug\Lab1_10.24.17.exe.config
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\bin\Debug\Lab1_10.24.17.exe
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\bin\Debug\Lab1_10.24.17.pdb
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\obj\Debug\Lab1_10.24.17.csprojResolveAssemblyReference.cache
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\obj\Debug\Lab1_10.24.17.csproj.CoreCompileInputs.cache
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\obj\Debug\Lab1_10.24.17.exe
-c:\users\ljcon\source\repos\Lab1_10.24.17\Lab1_10.24.17\obj\Debug\Lab1_10.24.17.pdb
