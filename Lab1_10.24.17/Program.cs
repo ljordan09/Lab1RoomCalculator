@@ -45,6 +45,7 @@ namespace Lab1_10._24._17
                 {
                     repeat = false;
                 }
+                Console.WriteLine("bye");
             }
 
             Console.ReadKey();
